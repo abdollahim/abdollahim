@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @majid-abdollahi
+- 👀 I’m interested in new technologies, software development, security, testing, server, and internet.
+- 🌱 I’m currently working on development and penetration testing.
+- 💞️ I’m looking to collaborate on open source projects even translating them to my native language (Persian).
+- 📫 Keep in touch...
