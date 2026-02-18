@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @abdollahim
-- 👀 I’m interested in new technologies, software development, computer security, testing, server, and the internet.
-- 🌱 I’m currently working on development and penetration testing as a full-time engineer.
-- 💞️ I’m looking to collaborate on open source projects or even translating them to my native language (Persian/Farsi).
-- 📫 Keep in touch...
+- 👋 Hi, I’m @abdollahim  
+- 🚀 I’m a systems engineer and DevSecOps practitioner working across backend development, network automation, virtualization, and secure infrastructure design.  
+- 🧠 My work spans Laravel development, Linux engineering, VMware/vCenter administration, Zabbix and LibreNMS monitoring, rConfig automation, and enterprise backup solutions like Veeam.  
+- 🔬 I also develop Wireshark dissectors, perform low‑level protocol analysis, and work on reverse engineering and digital forensics projects.  
+- 🛠️ I build production‑grade monitoring ecosystems, create advanced Zabbix templates, and contribute to open‑source tooling for network and system observability.  
+- 🌍 I’ve contributed to and translated open‑source projects into Persian/Farsi to help make technology more accessible to my community.  
+- 🌱 Always learning — from secure software development to network protocol internals, automation pipelines, and scalable infrastructure patterns.  
+- 🤝 Open to collaborating on open‑source projects, infrastructure tooling, monitoring templates, or translating documentation into Persian/Farsi.  
+- 📫 Let’s connect and build something meaningful together.  
